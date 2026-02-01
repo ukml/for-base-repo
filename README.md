@@ -13,3 +13,4 @@ Base for Boys
 Base for Babies
 Base for Girls
 Base for Poors
+Base for Rich
