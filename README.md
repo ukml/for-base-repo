@@ -7,3 +7,4 @@ Hello Base Degans
 Hello Base Lovers
 Hello Base fams
 Hello Base Farmers
+Hello Base Traders
