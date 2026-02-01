@@ -33,3 +33,4 @@ Base for tanny
 Base for Tony
 Base for Mony
 Base for Gonny
+Base for Honny
