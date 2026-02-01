@@ -56,3 +56,4 @@ For
 All
 And
 For
+Every
