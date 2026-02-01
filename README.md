@@ -17,3 +17,4 @@ Base for Rich
 Base for Student
 Base for Kids
 Base for Husbands
+Base for wives
